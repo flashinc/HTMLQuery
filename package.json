@@ -1,0 +1,19 @@
+{
+  "name": "htmlquery",
+  "version": "1.0.0",
+  "description": "A small but useful js package that allows you to query your html easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flashinc/HTMLQuery.git"
+  },
+  "author": "Lachlan Jowett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flashinc/HTMLQuery/issues"
+  },
+  "homepage": "https://github.com/flashinc/HTMLQuery#readme"
+}
