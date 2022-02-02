@@ -6,7 +6,7 @@ Html query is a super tiny js framwork / package that allows you to query HTML e
 
 ## Q. Is there a Cdn?
 
-A. Yes! it is: [flashinc.lachlanjowett.com/cdn/htmlquery.min.js](flashinc.lachlanjowett.com/cdn/htmlquery.min.js)
+A. Yes! it is: [https://flashinc.lachlanjowett.com/cdn/htmlquery.min.js](https://flashinc.lachlanjowett.com/cdn/htmlquery.min.js)
 
 ### Q. Why did you make this?
 
